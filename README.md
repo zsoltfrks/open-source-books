@@ -1,5 +1,5 @@
 > **CREDITS & ACKNOWLEDGMENTS**  
-> This repository is an English translation and adaptation of the popular [free-books repository](https://github.com/ruanyf/free-books) curated by <b>Ruan YiFeng</b> ([@ruanyf](https://github.com/ruanyf)). Full credit for the original collection goes to him and its contributors. 
+> This repository is an English translation of the popular [free-books repository](https://github.com/ruanyf/free-books) curated by <b>Ruan YiFeng</b> ([@ruanyf](https://github.com/ruanyf)). Full credit for the original collection goes to him and its contributors. 
 
 # Collection of Free Computer Books
 
